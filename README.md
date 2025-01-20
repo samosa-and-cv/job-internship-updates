@@ -3,6 +3,9 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+| Akamai Technologies   |Software Engineer | India-Remote   | [Apply Here](https://akamaicareers.inflightcloud.com/jobdetails/aka_ext/036198?section=aka_ext&job=036198) |
+| Deutsche Bank  |Associate Engineer  |  Bangalore, Karnataka, India     | [Apply Here](https://careers.db.com/professionals/search-roles/?test.html%3Fkid%3D=linkedinjobwrap#/professional/job/59632) |
+| Blackhawk     |Software Engineer |  Bangalore, Karnataka, India   | [Apply Here](https://apac-blackhawknetwork.icims.com/jobs/22759/software-engineer/job?mobile=true&width=393&height=649&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330) |
 | Airbnb     |Software Engineering Intern  | United States-Remote Eligible   | [Apply Here](https://careers.airbnb.com/positions/6492414/?gh_src=34ewj2) |
 | Amazon     |Digital Content Associate  |  Hyderabad, Telangana, India   | [Apply Here](https://www.amazon.jobs/en/jobs/2868460/digital-content-associate) |
 | Microsoft     |Cloud Network Engineering Intern  |  Multiple Locations, India   | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1801673/Cloud-Network-Engineering-Intern) |
