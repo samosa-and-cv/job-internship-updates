@@ -3,6 +3,8 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+| Optum  |Software Engineer | Hyderabad, Telangana, IN/Gurgaon, Haryana, IN   | [Apply Here](https://careers.unitedhealthgroup.com/job/21471663/software-engineer-noida-in/?src=JB-22455&utm_medium=job_posting) |
+| Amazon  |Software Dev Engineer | Bangalore, Karnataka, India   | [Apply Here](https://www.amazon.jobs/en/jobs/2839681/software-dev-engineer) |
 | Akamai Technologies   |Software Engineer | India-Remote   | [Apply Here](https://akamaicareers.inflightcloud.com/jobdetails/aka_ext/036198?section=aka_ext&job=036198) |
 | Deutsche Bank  |Associate Engineer  |  Bangalore, Karnataka, India     | [Apply Here](https://careers.db.com/professionals/search-roles/?test.html%3Fkid%3D=linkedinjobwrap#/professional/job/59632) |
 | Blackhawk     |Software Engineer |  Bangalore, Karnataka, India   | [Apply Here](https://apac-blackhawknetwork.icims.com/jobs/22759/software-engineer/job?mobile=true&width=393&height=649&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330) |
