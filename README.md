@@ -3,6 +3,9 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+| ShareChat |SDE-Intern |Bangalore, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4130352892/) |
+| Qualcomm |Interim Engineering Intern | Hyderabad, Telangana, India | [Apply Here](https://careers.qualcomm.com/careers/job/446700568005) |
+| Salesforce |SDE Intern (Summer) | Hyderabad, Telangana, India | [Apply Here](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Intern_JR280041) |
 | Optum  |Software Engineer | Hyderabad, Telangana, IN/Gurgaon, Haryana, IN   | [Apply Here](https://careers.unitedhealthgroup.com/job/21471663/software-engineer-noida-in/?src=JB-22455&utm_medium=job_posting) |
 | Amazon  |Software Dev Engineer | Bangalore, Karnataka, India   | [Apply Here](https://www.amazon.jobs/en/jobs/2839681/software-dev-engineer) |
 | Akamai Technologies   |Software Engineer | India-Remote   | [Apply Here](https://akamaicareers.inflightcloud.com/jobdetails/aka_ext/036198?section=aka_ext&job=036198) |
