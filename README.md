@@ -3,6 +3,7 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+| NIKE |Software Engineer-1 | Karnataka, India | [Apply Here](https://jobs.nike.com/job/R-49978) |
 | ShareChat |SDE-Intern |Bangalore, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4130352892/) |
 | Qualcomm |Interim Engineering Intern | Hyderabad, Telangana, India | [Apply Here](https://careers.qualcomm.com/careers/job/446700568005) |
 | Salesforce |SDE Intern (Summer) | Hyderabad, Telangana, India | [Apply Here](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Intern_JR280041) |
