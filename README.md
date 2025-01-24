@@ -3,6 +3,8 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+| Goldman Sachs |Associate Software Engineer | Bangalore, India | [Apply Here](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/120908?mode=job&iis=LinkedIn&utm_medium=jobshare) |
+| Myntra |Data Analyst | Bangalore, India | [Apply Here](https://job-boards.greenhouse.io/myntra/jobs/7725597002?gh_src=bb272d8c2) |
 | Airbus |Generative AI Intern | Bangalore, India | [Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Generative-AI-Intern_JR10307709) |
 | Lowe's |Software Engineer Python_ML_AI  | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4129262442/?alternateChannel=search&refId=zyjr%2FJ2Qd8RfQ1GV5ysX%2Bg%3D%3D&trackingId=wDOYsgL%2BZMeP6%2F96xQ279A%3D%3D) |
 | Lowe's |Senior Software Engineer_Java_ Conversational AI  | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4129456968/?alternateChannel=search&refId=zyjr%2FJ2Qd8RfQ1GV5ysX%2Bg%3D%3D&trackingId=6STpJVJbtN73ztA%2Fou7gtw%3D%3D) |
