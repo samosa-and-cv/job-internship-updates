@@ -3,6 +3,10 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+| American Express GBT |Senior Software Engineer |Gurgaon, India| [Apply Here](https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Gurgaon-India/Software-Development-Engineer_J-71914?rx_a=1&rx_c=tech---engineer&rx_ch=jobp4p&rx_group=391012&rx_job=J-71914&rx_medium=cpc&rx_r=none&rx_source=Indeed&rx_ts=20250125T160422Z&rx_vp=cpc&source=Recruitics_Indeed_Sponsored&rx_p=XFHQ2LDJLQ&rx_viewer=5a680b84db4111ef8ce337689aceedcdb87542df13e44887ae7564d4a42b56f5) |
+| SAP |DevOps Engineer | Bangalore, India-remote | [Apply Here](https://jobs.sap.com/job/Bangalore-DevOps-Engineer-560066/1138512001/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed) |
+| Atlassian |Senior Software Engineer | Bangalore, India-remote | [Apply Here](https://www.atlassian.com/company/careers/details/16282) |
+| Zepto |Sr Data Scientist  | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4132087357/?alternateChannel=search&refId=Tua65qRnshr2v8%2FAyH2cUw%3D%3D&trackingId=MUuItCOfPOQNyo8ZVny7EA%3D%3D) |
 | Goldman Sachs |Associate Software Engineer | Bangalore, India | [Apply Here](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/120908?mode=job&iis=LinkedIn&utm_medium=jobshare) |
 | Myntra |Data Analyst | Bangalore, India | [Apply Here](https://job-boards.greenhouse.io/myntra/jobs/7725597002?gh_src=bb272d8c2) |
 | Lowe's |Software Engineer Python_ML_AI  | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4129262442/?alternateChannel=search&refId=zyjr%2FJ2Qd8RfQ1GV5ysX%2Bg%3D%3D&trackingId=wDOYsgL%2BZMeP6%2F96xQ279A%3D%3D) |
