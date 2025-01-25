@@ -13,7 +13,6 @@
 | Lowe's |Senior Software Engineer_Java_ Conversational AI  | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4129456968/?alternateChannel=search&refId=zyjr%2FJ2Qd8RfQ1GV5ysX%2Bg%3D%3D&trackingId=6STpJVJbtN73ztA%2Fou7gtw%3D%3D) |
 |CRED |web intern | Bengaluru, India | [Apply Here](https://jobs.lever.co/cred/ef59fe4e-e96a-4fb0-bbbd-e44890e0ce6f) |
 | Youtube |Software Engineer | Bengaluru, Karnataka, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/88506086364979910-software-engineer-youtube?location=India&sort_by=date&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&company=YouTube) |
-| Philips |Tech Intern Hiring | Pune, India | [Apply Here](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Tech-Intern-Hiring_522121/) |
 | NIKE |Software Engineer-1 | Karnataka, India | [Apply Here](https://jobs.nike.com/job/R-49978) |
 | ShareChat |SDE-Intern |Bangalore, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4130352892/) |
 | Qualcomm |Interim Engineering Intern | Hyderabad, Telangana, India | [Apply Here](https://careers.qualcomm.com/careers/job/446700568005) |
