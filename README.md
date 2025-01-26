@@ -11,7 +11,6 @@
 | Visa    |Data Scientist  | Bangalore, India  | [Apply Here](https://jobs.smartrecruiters.com/Visa/744000038669275-data-scientist) |
 | Visa     |SW Engineer  |Bengaluru, Karnataka, India  | [Apply Here](https://jobs.smartrecruiters.com/Visa/744000038249856-sw-engineer-2023-2024-passed-out-) |
 | Adobe  |Machine Learning Engineer 5 | Noida, Uttar Pradesh, India | [Apply Here](https://careers.adobe.com/us/en/job/R153030/Machine-Learning-Engineer-5) |
-| JPMorganChase |Software Engineer I |Mumbai, Maharashtra, India | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210549125?utm_medium=jobboard&utm_source=Indeed_Organic) |
 | American Express GBT |Senior Software Engineer |Gurgaon, India| [Apply Here](https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Gurgaon-India/Software-Development-Engineer_J-71914?rx_a=1&rx_c=tech---engineer&rx_ch=jobp4p&rx_group=391012&rx_job=J-71914&rx_medium=cpc&rx_r=none&rx_source=Indeed&rx_ts=20250125T160422Z&rx_vp=cpc&source=Recruitics_Indeed_Sponsored&rx_p=XFHQ2LDJLQ&rx_viewer=5a680b84db4111ef8ce337689aceedcdb87542df13e44887ae7564d4a42b56f5) |
 | SAP |DevOps Engineer | Bangalore, India-remote | [Apply Here](https://jobs.sap.com/job/Bangalore-DevOps-Engineer-560066/1138512001/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed) |
 | Atlassian |Senior Software Engineer | Bangalore, India-remote | [Apply Here](https://www.atlassian.com/company/careers/details/16282) |
