@@ -3,6 +3,7 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|BNY Code divas 2025 | Coding Challenge| Online  | [Apply Here](https://assessment.hackerearth.com/challenges/new/hiring/bny-mellon-code-divas-diversity-challenge-2025/#instructions) |
 |AtkinsRéalis | Intern | Gurgaon, India  | [Apply Here](https://careers.atkinsrealis.com/job/intern-in-gurgaon-haryana-jid-42313) |
 |Optum   |Associate Software Engineer II | Gurgaon, Haryana, IN | [Apply Here](https://careers.unitedhealthgroup.com/job/21502692/associate-software-engineer-ii-gurgaon-in/) |
 | Natwest   |Software Engineer | Bangalore, India  | [Apply Here](https://jobs.natwestgroup.com/jobs/15497614-software-engineer?tm_job=R-00249668&tm_event=view&tm_company=861) |
