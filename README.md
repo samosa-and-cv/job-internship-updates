@@ -3,6 +3,10 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|AtkinsRéalis | Intern | Gurgaon, India  | [Apply Here](https://careers.atkinsrealis.com/job/intern-in-gurgaon-haryana-jid-42313) |
+|Optum   |Associate Software Engineer II | Gurgaon, Haryana, IN | [Apply Here](https://careers.unitedhealthgroup.com/job/21502692/associate-software-engineer-ii-gurgaon-in/) |
+| Natwest   |Software Engineer | Bangalore, India  | [Apply Here](https://jobs.natwestgroup.com/jobs/15497614-software-engineer?tm_job=R-00249668&tm_event=view&tm_company=861) |
+| Mastercard   |Software Engineer I |Pune, India  | [Apply Here](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-238489) |
 | Hackerearth    |Technical Engineer - Problem Setter (Programming ) - Internship  | Bangalore, India  | [Apply Here](https://hackerearth.applytojob.com/apply/TD1LYRto09/Technical-Engineer-Problem-Setter-Programming--Internship) |
 | Hackerearth   |Technical Content Engineer - Internship | Bangalore, India  | [Apply Here](https://hackerearth.applytojob.com/apply/WB98yoLSoM/Technical-Content-Engineer-Internship) |
 | Hackerearth    |Software Engineer Frontend Internship | Bengaluru, Karnataka, India  | [Apply Here](https://hackerearth.applytojob.com/apply/aJeduD09oP/Software-Engineer-Frontend-Internship) |
