@@ -3,6 +3,13 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Uber |Product Design Internship | Bangalore, India  | [Apply Here](https://www.linkedin.com/jobs/view/4137018880/) |
+|Junglee Games |Data Intern | Gurgaon, India  | [Apply Here](https://flutterbe.wd3.myworkdayjobs.com/Junglee_Games/job/Junglee-Gurgaon/Data-Intern_JR123433-1?) |
+|Antino Labs | AI/ML Intern | Gurgaon, India  | [Apply Here](https://antino.freshteam.com/jobs/oF3jCaotWflg/ai-ml-intern) |
+|Viavi | Wireless R&D Intern |Bangalore, India  | [Apply Here](https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Bangalore---IND/Wireless-R-D-Intern_250003150) |
+|Uber |Software Engineer II | Bangalore, India  | [Apply Here](https://www.uber.com/global/en/careers/list/136641/) |
+|Target | Software Engineer - 1 | Bangalore, India  | [Apply Here](https://corporate.target.com/jobs/w87/65/engineer-target-india-1) |
+|JusPay | Software Development Engineer Backend | Bangalore, India  | [Apply Here](https://juspay.io/careers/DEV-BE01) |
 |BNY Code divas 2025 | Coding Challenge| Online  | [Apply Here](https://assessment.hackerearth.com/challenges/new/hiring/bny-mellon-code-divas-diversity-challenge-2025/#instructions) |
 |AtkinsRéalis | Intern | Gurgaon, India  | [Apply Here](https://careers.atkinsrealis.com/job/intern-in-gurgaon-haryana-jid-42313) |
 |Optum   |Associate Software Engineer II | Gurgaon, Haryana, IN | [Apply Here](https://careers.unitedhealthgroup.com/job/21502692/associate-software-engineer-ii-gurgaon-in/) |
