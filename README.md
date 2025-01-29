@@ -3,6 +3,9 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Tata CLiQ Fashion |Internship - Full Stack Developer|Mumbai, India  | [Apply Here](https://www.linkedin.com/jobs/view/4136108985/) |
+|Sony Research India |Multimodal AI Intern | Bangalore, India  | [Apply Here](https://www.linkedin.com/jobs/view/4137169725/) |
+|NCR Atleos |IT Intern | GURGAON, INd  | [Apply Here](https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_apacatleos/job/GURGAON-IND/IT-Intern_UR2025005) |
 |Uber |Product Design Internship | Bangalore, India  | [Apply Here](https://www.linkedin.com/jobs/view/4137018880/) |
 |Junglee Games |Data Intern | Gurgaon, India  | [Apply Here](https://flutterbe.wd3.myworkdayjobs.com/Junglee_Games/job/Junglee-Gurgaon/Data-Intern_JR123433-1?) |
 |Antino Labs | AI/ML Intern | Gurgaon, India  | [Apply Here](https://antino.freshteam.com/jobs/oF3jCaotWflg/ai-ml-intern) |
