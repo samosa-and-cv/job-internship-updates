@@ -3,6 +3,8 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Rolls Royce |Internship in Testing and Validation Engineering|Pune, India  | [Apply Here](https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Pune/Internship-in-Testing-and-Validation-Engineering_JR6129300-1) |
+|Deloitte|Software Intern|Bangalore, India  | [Apply Here](https://jobsindia.deloitte.com/job/Bengaluru-Intern-Fresher-Bengaluru-Workforce-Transformation/35173044/) |
 |Tata CLiQ Fashion |Internship - Full Stack Developer|Mumbai, India  | [Apply Here](https://www.linkedin.com/jobs/view/4136108985/) |
 |Sony Research India |Multimodal AI Intern | Bangalore, India  | [Apply Here](https://www.linkedin.com/jobs/view/4137169725/) |
 |NCR Atleos |IT Intern | GURGAON, INd  | [Apply Here](https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_apacatleos/job/GURGAON-IND/IT-Intern_UR2025005) |
