@@ -3,6 +3,11 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Microsoft |Software Engineering: Internship Opportunity  |Delhi, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138784710/) |
+|Synopsys |Intern (Technical-Engineering) | Noida, Uttar Pradesh, India  | [Apply Here](https://careers.synopsys.com/job/-/-/44408/76675542352) |
+|CapitalOne |Software Engineering Intern | Bengaluru, India | [Apply Here](https://www.capitalonecareers.com/job/-/-/1732/76639281456) |
+|Honeywell |Data Engineer | Noida, Uttar Pradesh, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138080102/?alternateChannel=search&refId=CyxpkyIWS96nOdIsSG5ZCQ%3D%3D&trackingId=RYhI97%2BvbXo8jbCAQ3KwdQ%3D%3D) |
+|Intel |System Software Development Engineer | Bengaluru, Karnataka, India  | [Apply Here](https://jobs.intel.com/en/job/-/-/599/76674497968?source=LinkedIn) |
 |Rolls Royce |Internship in Testing and Validation Engineering|Pune, India  | [Apply Here](https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Pune/Internship-in-Testing-and-Validation-Engineering_JR6129300-1) |
 |Deloitte|Software Intern|Bangalore, India  | [Apply Here](https://jobsindia.deloitte.com/job/Bengaluru-Intern-Fresher-Bengaluru-Workforce-Transformation/35173044/) |
 |Microsoft |Silicon Engineering Intern | Bangalore, India  | [Apply Here](https://jobs.careers.microsoft.com/us/en/job/1775862/Silicon-Engineering-Intern?jobsource=indeed) |
