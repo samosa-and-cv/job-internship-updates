@@ -65,5 +65,5 @@
 | Apple     |Software Engineer (Framework), Ai & Data Platforms   | Hyderabad, Telangana, India        | [Apply Here](https://jobs.apple.com/en-us/details/200561750/software-engineer-framework-ai-data-platforms?team=SFTWR) |
 | Apple     |DevOps Engineer   | Hyderabad, Telangana, India       | [Apply Here](https://jobs.apple.com/en-us/details/200534941/devops-engineer?team=SFTWR) |
 | Apple     | Full Stack Engineer - Java and React JS   | Hyderabad, Telangana, India     | [Apply Here](https://jobs.apple.com/en-us/details/200551354/full-stack-engineer-java-and-react-js?team=SFTWR) |
-| Upstox     |SDE Full Stack Intern   | Mumbai,India        | [Apply Here](https://jobs.lever.co/upstox/91ad9cb9-92ce-4bab-95d6-c1148b39474d) |
+
 
