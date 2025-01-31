@@ -3,7 +3,12 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
-|Microsoft |Software Engineering: Internship Opportunity  |Delhi, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138784710/) |
+|Warner Bros Discovery |ML Engineer |Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=4138254707&originToLandingJobPostings=4138433061&referenceJobId=4138080102&start=25) |
+|Capital One |Data Scientist  |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=4138455095&originToLandingJobPostings=4138433061&referenceJobId=4138080102) |
+|Citi |Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=4138834070&originToLandingJobPostings=4138433061&referenceJobId=4138080102) |
+|PayPal|Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=4136121058&originToLandingJobPostings=4138433061&referenceJobId=4138080102) |
+|American Express |Data Engineer I - Digital Banking  |Bengaluru, Karnataka, India| [Apply Here](https://aexp.eightfold.ai/careers/job/27026149?hl=en&utm_source=test123&utm_medium=campaign123&domain=aexp.com) |
+|Razorpay |Software Development Engineer in Test  |Bangalore, India  | [Apply Here](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4519810005) |
 |Synopsys |Intern (Technical-Engineering) | Noida, Uttar Pradesh, India  | [Apply Here](https://careers.synopsys.com/job/-/-/44408/76675542352) |
 |CapitalOne |Software Engineering Intern | Bengaluru, India | [Apply Here](https://www.capitalonecareers.com/job/-/-/1732/76639281456) |
 |Honeywell |Data Engineer | Noida, Uttar Pradesh, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138080102/?alternateChannel=search&refId=CyxpkyIWS96nOdIsSG5ZCQ%3D%3D&trackingId=RYhI97%2BvbXo8jbCAQ3KwdQ%3D%3D) |
