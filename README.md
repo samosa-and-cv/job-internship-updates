@@ -3,7 +3,7 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
-|Warner Bros Discovery |ML Engineer |Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=4138254707&originToLandingJobPostings=4138433061&referenceJobId=4138080102&start=25) |
+|Warner Bros Discovery |ML Engineer |Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4138254707/?alternateChannel=search&refId=NotAvailable&trackingId=jzjRsoVjSmKj%2FiJFH4%2Fgxg%3D%3D) |
 |Capital One |Data Scientist  |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138455095/?alternateChannel=search&refId=NotAvailable&trackingId=lmodd%2BqWTF%2Bna1i1ZZhGXg%3D%3D) |
 |Citi |Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138834070/?alternateChannel=search&refId=NotAvailable&trackingId=JNHnbX5JQMK1SUr1sq%2F0lw%3D%3D) |
 |PayPal|Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4136121058/?alternateChannel=search&refId=NotAvailable&trackingId=4bw9H5%2FcQieQGzBUkLhNdw%3D%3D) |
