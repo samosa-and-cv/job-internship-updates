@@ -3,6 +3,8 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Airbus |Generative AI Intern| Bangalore, India | [Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Generative-AI-Intern_JR10318118) |
+|Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
 |HomeLane |Development Engineer Intern| Bangalore, India | [Apply Here](https://homelane.sensehq.com/careers/jobs/55623) |
 |ClearFeed |Software Development Intern (Frontend)| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4184597265/) |
 |NCR VOYIX |Software Engineer I | CHENNAI, IND | [Apply Here](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/CHENNAI-IND/Software-Engineer-I_BHC20251771) |
