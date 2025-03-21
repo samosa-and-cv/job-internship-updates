@@ -3,6 +3,7 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Henkel|Supply Chain Data Science Intern| Navi Mumbai,Maharashtra, India | [Apply Here](https://www.henkel.com/careers/jobs-and-application/2046798-2046798) |
 |Airbus |Generative AI Intern| Bangalore, India | [Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Generative-AI-Intern_JR10318118) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
 |HomeLane |Development Engineer Intern| Bangalore, India | [Apply Here](https://homelane.sensehq.com/careers/jobs/55623) |
