@@ -3,6 +3,7 @@
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Google |Software Engineer| Bangalore, India;Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
 |Henkel|Supply Chain Data Science Intern| Navi Mumbai,Maharashtra, India | [Apply Here](https://www.henkel.com/careers/jobs-and-application/2046798-2046798) |
 |Airbus |Generative AI Intern| Bangalore, India | [Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Generative-AI-Intern_JR10318118) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
