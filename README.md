@@ -11,6 +11,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 ---
 ### Legend
 ♀️ - Female only opportunity
+
 ❌ - Applications closed
 
 
