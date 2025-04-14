@@ -78,7 +78,6 @@
 | Microsoft     |Software Engineer II  | Hyderabad, Telangana, India     | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1801795/Software-Engineer-II) |
 | Capgemini     |Aeronautical / Aerospace Analyst   |  Bangalore, India       | [Apply Here](https://www.capgemini.com/in-en/solutions/off-campus-drive-for-aeronautical-aerospace-2023-2024-graduates/) |
 | Apple     |Software Engineer (Framework), Ai & Data Platforms   | Hyderabad, Telangana, India        | [Apply Here](https://jobs.apple.com/en-us/details/200561750/software-engineer-framework-ai-data-platforms?team=SFTWR) |
-| Apple     |DevOps Engineer   | Hyderabad, Telangana, India       | [Apply Here](https://jobs.apple.com/en-us/details/200534941/devops-engineer?team=SFTWR) |
 | Apple     | Full Stack Engineer - Java and React JS   | Hyderabad, Telangana, India     | [Apply Here](https://jobs.apple.com/en-us/details/200551354/full-stack-engineer-java-and-react-js?team=SFTWR) |
 
 
