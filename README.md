@@ -12,6 +12,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 ### Legend
 ♀️ - Female only opportunity
 
+
 ## 💼 Job and Internship Updates
 
 🗓️ Updated regularly with handpicked opportunities for students and professionals.  
