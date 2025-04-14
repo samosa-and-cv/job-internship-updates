@@ -27,6 +27,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Dhroov |UI/UX designer intern | Remote(USA) | [Apply Here](https://cuvette.tech/app/student/internship/67f149dbc6e92c44f7077422) |
+|Sophos |SDET Intern(6 months) | Bengaluru,Karnataka | [Apply Here](https://www.linkedin.com/jobs/view/4199740016/) |
 |Swiggy |Software Development Engineer I (Storefront) - Java | Remote | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
 |Google |Software Engineer| Bangalore, India ; Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
