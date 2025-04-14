@@ -114,6 +114,6 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
-|Codess Cafe Mentorship program  | 20th April, 2025 | [Apply Here](https://forms.gle/pYZKRkdBQ2Bdndty9) |
+|Codess Cafe Mentorship program ♀️  | 20th April, 2025 | [Apply Here](https://forms.gle/pYZKRkdBQ2Bdndty9) |
 
 
