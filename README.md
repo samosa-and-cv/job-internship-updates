@@ -27,10 +27,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
 |Google |Software Engineer| Bangalore, India ; Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
-|Henkel|Supply Chain Data Science Intern| Navi Mumbai,Maharashtra, India | [Apply Here](https://www.henkel.com/careers/jobs-and-application/2046798-2046798) |
-|Airbus |Generative AI Intern| Bangalore, India | [Apply Here](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Generative-AI-Intern_JR10318118) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
-|HomeLane |Development Engineer Intern| Bangalore, India | [Apply Here](https://homelane.sensehq.com/careers/jobs/55623) |
 |ClearFeed |Software Development Intern (Frontend)| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4184597265/) |
 |NCR VOYIX |Software Engineer I | CHENNAI, IND | [Apply Here](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/CHENNAI-IND/Software-Engineer-I_BHC20251771) |
 |AllianceBernstein|AO/AI Prompt Engineer |Pune, Maharashtra, India  | [Apply Here](https://www.linkedin.com/jobs/view/4188785686/) |
