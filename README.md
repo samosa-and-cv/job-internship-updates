@@ -1,4 +1,25 @@
-# job-internship-updates
+# Job-Internship-updates
+# 🚀 Opportunities Hub
+
+Welcome to your one-stop repo for the latest **jobs, internships, mentorships, and hackathons**!  
+Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for real-time alerts!
+
+## 📚 Table of Contents
+- [💼 Job and Internship Updates](#-job-and-internship-updates)
+- [🤝 Mentorship & Hackathons](#-mentorship--hackathons)
+
+---
+
+## 💼 Job and Internship Updates
+
+🗓️ Updated regularly with handpicked opportunities for students and professionals.  
+🔗 Application links, deadlines, and eligibility details included.
+
+> ✅ Feel free to contribute by raising a PR with new listings!
+
+---
+
+
 
 
 | Company Name | Role          | Location        | Apply Link           |
@@ -79,5 +100,13 @@
 | Capgemini     |Aeronautical / Aerospace Analyst   |  Bangalore, India       | [Apply Here](https://www.capgemini.com/in-en/solutions/off-campus-drive-for-aeronautical-aerospace-2023-2024-graduates/) |
 | Apple     |Software Engineer (Framework), Ai & Data Platforms   | Hyderabad, Telangana, India        | [Apply Here](https://jobs.apple.com/en-us/details/200561750/software-engineer-framework-ai-data-platforms?team=SFTWR) |
 | Apple     | Full Stack Engineer - Java and React JS   | Hyderabad, Telangana, India     | [Apply Here](https://jobs.apple.com/en-us/details/200551354/full-stack-engineer-java-and-react-js?team=SFTWR) |
+
+
+## 🤝 Mentorship & Hackathons
+
+🚀 Curated programs, fellowships, and hackathon opportunities to help you grow and build!  
+📅 Includes application links, community-based events, and deadlines.
+
+> 🎉 Don’t forget to check our Discord for team-ups and discussions!
 
 
