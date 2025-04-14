@@ -26,8 +26,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
-|Swiggy |Software Development Engineer I (Storefront) - Java 
-| Remote | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
+|Swiggy |Software Development Engineer I (Storefront) - Java | Remote | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
 |Google |Software Engineer| Bangalore, India ; Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
 |ClearFeed |Software Development Intern (Frontend)| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4184597265/) |
