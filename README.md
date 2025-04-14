@@ -9,6 +9,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 - [🤝 Mentorship & Hackathons](#-mentorship--hackathons)
 
 ---
+### Legend
+♀️ - Female only opportunity
 
 ## 💼 Job and Internship Updates
 
