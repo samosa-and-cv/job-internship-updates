@@ -107,8 +107,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 ## 🤝 Mentorship & Hackathons
 
 🚀 Curated programs, fellowships, and hackathon opportunities to help you grow and build!  
+
 📅 Includes application links, community-based events, and deadlines.
 
 > 🎉 Don’t forget to check our Discord for team-ups and discussions!
+
+|  Name       | Deadline          | Apply Link           |
+|---------------------|-------------------|--------------------------|
+|Codess Cafe Mentorship program  | 20th April, 2025 | [Apply Here](https://forms.gle/pYZKRkdBQ2Bdndty9) |
 
 
