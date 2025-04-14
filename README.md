@@ -11,6 +11,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 ---
 ### Legend
 ♀️ - Female only opportunity
+❌ - Applications closed
 
 
 ## 💼 Job and Internship Updates
@@ -32,8 +33,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |Swiggy |Software Development Engineer I (Storefront) - Java | Remote | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
 |Google |Software Engineer| Bangalore, India ; Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
-|ClearFeed |Software Development Intern (Frontend)| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4184597265/) |
-|NCR VOYIX |Software Engineer I | CHENNAI, IND | [Apply Here](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/CHENNAI-IND/Software-Engineer-I_BHC20251771) |
+|ClearFeed ❌ |Software Development Intern (Frontend)| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4184597265/) |
+|NCR VOYIX ❌ |Software Engineer I | CHENNAI, IND | [Apply Here](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/CHENNAI-IND/Software-Engineer-I_BHC20251771) |
 |AllianceBernstein|AO/AI Prompt Engineer |Pune, Maharashtra, India  | [Apply Here](https://www.linkedin.com/jobs/view/4188785686/) |
 |Verisk |Software Engineer I  | Hyderabad, Telangana, India  | [Apply Here](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/890) |
 |Amazon |Software Dev Engineer I |Hyderabad,Chennai,Delhi,Bengaluru, India  | [Apply Here](https://www.amazon.jobs/en/jobs/2877272/software-dev-engineer-i-amazon-university-talent-acquisition) |
