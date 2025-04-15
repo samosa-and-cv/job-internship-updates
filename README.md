@@ -43,8 +43,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |AllianceBernstein|AO/AI Prompt Engineer |Pune, Maharashtra, India  | [Apply Here](https://www.linkedin.com/jobs/view/4188785686/) |
 |Verisk |Software Engineer I  | Hyderabad, Telangana, India  | [Apply Here](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/890) |
 |Amazon |Software Dev Engineer I |Hyderabad,Chennai,Delhi,Bengaluru, India  | [Apply Here](https://www.amazon.jobs/en/jobs/2877272/software-dev-engineer-i-amazon-university-talent-acquisition) |
-|Warner Bros Discovery |ML Engineer |Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4138254707/?alternateChannel=search&refId=NotAvailable&trackingId=jzjRsoVjSmKj%2FiJFH4%2Fgxg%3D%3D) |
-|Capital One |Data Scientist  |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138455095/?alternateChannel=search&refId=NotAvailable&trackingId=lmodd%2BqWTF%2Bna1i1ZZhGXg%3D%3D) |
+|Warner Bros Discovery❌ |ML Engineer |Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4138254707/?alternateChannel=search&refId=NotAvailable&trackingId=jzjRsoVjSmKj%2FiJFH4%2Fgxg%3D%3D) |
+|Capital One❌ |Data Scientist  |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138455095/?alternateChannel=search&refId=NotAvailable&trackingId=lmodd%2BqWTF%2Bna1i1ZZhGXg%3D%3D) |
 |Citi |Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138834070/?alternateChannel=search&refId=NotAvailable&trackingId=JNHnbX5JQMK1SUr1sq%2F0lw%3D%3D) |
 |PayPal|Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4136121058/?alternateChannel=search&refId=NotAvailable&trackingId=4bw9H5%2FcQieQGzBUkLhNdw%3D%3D) |
 |American Express |Data Engineer I - Digital Banking  |Bengaluru, Karnataka, India| [Apply Here](https://aexp.eightfold.ai/careers/job/27026149?hl=en&utm_source=test123&utm_medium=campaign123&domain=aexp.com) |
