@@ -18,7 +18,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 ## 💼 Job and Internship Updates
 
 🗓️ Updated regularly with handpicked opportunities for students and professionals.  
-🔗 Application links, deadlines, and eligibility details included.
+🔗 Application links, Location, and role details included.
 
 > ✅ Feel free to contribute by raising a PR with new listings!
 
