@@ -29,6 +29,10 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Weekday AI |SDE1 Intern | Bengaluru,Karnataka | [Apply Here](https://www.linkedin.com/jobs/view/4210693257/?alternateChannel=search&refId=NotAvailable&trackingId=7ZR6LclwTJSqv85Pww1FkA%3D%3D) |
+|Bright Money |SDE Intern | Bengaluru,Karnataka | [Apply Here](https://careers.kula.ai/brightmoney/2394) |
+|Walmart |Grad Intern| Bengaluru,Karnataka | [Apply Here](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Grad-Intern---No-Work-Experience_R-2152503) |
+|Barclays |AI/ML engineer | Pune,India | [Apply Here](https://search.jobs.barclays/job/pune/ai-ml-engineer-ai/13015/79569933392) |
 |Dhroov |UI/UX designer intern | Remote(USA) | [Apply Here](https://cuvette.tech/app/student/internship/67f149dbc6e92c44f7077422) |
 |Sophos |SDET Intern(6 months) | Bengaluru,Karnataka | [Apply Here](https://www.linkedin.com/jobs/view/4199740016/) |
 |Swiggy |Software Development Engineer I (Storefront) - Java | Remote | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
