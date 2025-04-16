@@ -31,7 +31,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |--------------|---------------|-----------------|----------------------|
 |Adobe |ER Intern | Bengaluru,India | [Apply Here](https://www.linkedin.com/jobs/view/4206219943/?alternateChannel=search&refId=FVwBZVwvn%2BUDqgmM%2FaqyBg%3D%3D&trackingId=%2B3zO0BvftYAv%2FXUbG8mnIw%3D%3D) |
 |ValGenesis |SWE Intern | Chennai,India | [Apply Here](https://www.linkedin.com/jobs/view/4207727128/?alternateChannel=search&refId=qF9WtLqY%2F8yocpaw08LEMg%3D%3D&trackingId=Wy0zd7HGHRvj4fWTBs%2BXqQ%3D%3D) |
-|Optiv |Identity Intern | Bengaluru,Karnataka | (6 hours left to apply)[Apply Here](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Bangalore-Karnataka/Identity-Intern-I-On-site--Bangalore_2025-12562) |
+|Optiv |Identity Intern | Bengaluru,Karnataka | (1 hour left to apply)[Apply Here](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Bangalore-Karnataka/Identity-Intern-I-On-site--Bangalore_2025-12562) |
 |Payoneer |SWE Intern | Gurugram,India | [Apply Here](https://www.payoneer.com/careers/position/6585884/?gh_jid=6585884) |
 |Fulcrum Digital |Data Engineer | Pune,India | [Apply Here](https://jobs.fulcrumdigital.com/jobs/India/613047000042426913/Data-Engineer?source=CareerSite) |
 |NatWest |Data Engineer | Bengaluru,Karnataka | [Apply Here](https://jobs.natwestgroup.com/jobs/15955576-data-engineer?tm_job=R-00255363&tm_event=view&tm_company=861) |
