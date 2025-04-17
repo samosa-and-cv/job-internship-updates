@@ -29,6 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Sprinto |Market Research Intern | Bengaluru,India | [Apply Here](https://www.linkedin.com/jobs/view/4202477807/?alternateChannel=search&refId=pInu1UATeC3%2BPJFFgLBSyw%3D%3D&trackingId=E%2FiKEtE9ENdzRUzxa5IoNA%3D%3D) |
+|Metropolis Technologies |Data Science Intern | Bengaluru,India | [Apply Here](https://www.linkedin.com/jobs/view/4207686381/?alternateChannel=search&refId=bTj4nuxt3zQ4xAUVjwq7kQ%3D%3D&trackingId=l5XVYPI87F7mFqzYgVIoeA%3D%3D) |
+|Pearson |Intern-AI Engineer | Bangalore, India | [Apply Here](https://pearson.jobs/bangalore-ind/intern-in-ai-engineer/204C3269E5B34D7796E5D752F11AAC27/job/?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed) |
+|Pearson |SWE Intern | Chennai, IND | [Apply Here](https://pearson.jobs/chennai-ind/intern-software-engineer-application-engineer/F29CC33F8D7940BF8F3F921D21298DBD/job/?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed) |
+|Caterpillar|SW Engineer | Bengaluru,India | [Apply Here](hhttps://careers.caterpillar.com/en/jobs/job/r0000293964-software-engineer/) |
+|HP |Data Engineer | Bengaluru,India | [Apply Here](https://www.respondhr.com/147122786) |
+|Visa |SW Engineer | Bengaluru,India | [Apply Here](https://jobs.smartrecruiters.com/Visa/744000054484265-sw-engineer) |
 |Adobe |ER Intern | Bengaluru,India | [Apply Here](https://www.linkedin.com/jobs/view/4206219943/?alternateChannel=search&refId=FVwBZVwvn%2BUDqgmM%2FaqyBg%3D%3D&trackingId=%2B3zO0BvftYAv%2FXUbG8mnIw%3D%3D) |
 |ValGenesis |SWE Intern | Chennai,India | [Apply Here](https://www.linkedin.com/jobs/view/4207727128/?alternateChannel=search&refId=qF9WtLqY%2F8yocpaw08LEMg%3D%3D&trackingId=Wy0zd7HGHRvj4fWTBs%2BXqQ%3D%3D) |
 |Optiv ❌|Identity Intern | Bengaluru,Karnataka | [Apply Here](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Bangalore-Karnataka/Identity-Intern-I-On-site--Bangalore_2025-12562) |
