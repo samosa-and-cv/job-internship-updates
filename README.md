@@ -29,6 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Secninjaz |AI/ML Intern| New Delhi,India | [Apply Here](https://www.secninjaz.com/careers.html) |
+|Globals |Software Engineering Intern | Bengaluru,India | [Apply Here](https://globals.zohorecruit.in/jobs/Careers/140088000000849002/Software-Engineering-Intern?source=CareerSite) |
+|Skyworks |Intern | Bengaluru,India | [Apply Here](https://careers.skyworksinc.com/job/Bengaluru-Intern-KA/1282651400/?feedId=177100&utm_source=Indeed&utm_campaign=Skyworks_Indeed) |
+|Converse |QA Engineer |4/F, WeWork, Embassy GolfLinks, Karnataka, Karnataka 560093, India | [Apply Here](https://careers.nike.com/qa-engineer-global-converse-itc/job/R-54612?source=BY_Indeed_AppFeeder&utm_source=BY_Indeed_AppFeeder) |
+|Aristocrat | Engineer II | Gurgaon,India | [Apply Here](https://aristocrat.wd3.myworkdayjobs.com/AristocratExternalCareersSite/job/Gurugram-HR-IN/Engineer-II_R0018321-1?rx_a=1&rx_c=india&rx_ch=jobp4p&rx_group=402090&rx_job=R0018321&rx_medium=cpc&rx_r=none&rx_source=Indeed&rx_ts=20250418T120537Z&rx_vp=cpc&source=Indeed_Sponsored&rx_p=RBHTILWYU3&rx_viewer=5a680b84db4111ef8ce337689aceedcdb87542df13e44887ae7564d4a42b56f5) |
+|MasterCard |Software Engineer I | Pune,India | [Apply Here](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-246404) |
+|S&P global | Associate I AI Engineer | Gurgaon,India| [Apply Here](https://careers.spglobal.com/jobs/314752?lang=en-us&utm_source=indeed) |
 |Sprinto |Market Research Intern | Bengaluru,India | [Apply Here](https://www.linkedin.com/jobs/view/4202477807/?alternateChannel=search&refId=pInu1UATeC3%2BPJFFgLBSyw%3D%3D&trackingId=E%2FiKEtE9ENdzRUzxa5IoNA%3D%3D) |
 |Metropolis Technologies |Data Science Intern | Bengaluru,India | [Apply Here](https://www.linkedin.com/jobs/view/4207686381/?alternateChannel=search&refId=bTj4nuxt3zQ4xAUVjwq7kQ%3D%3D&trackingId=l5XVYPI87F7mFqzYgVIoeA%3D%3D) |
 |Pearson |Intern-AI Engineer | Bangalore, India | [Apply Here](https://pearson.jobs/bangalore-ind/intern-in-ai-engineer/204C3269E5B34D7796E5D752F11AAC27/job/?vs=1554&utm_source=Indeed-DE&utm_medium=Job+Aggregator&utm_campaign=Indeed) |
