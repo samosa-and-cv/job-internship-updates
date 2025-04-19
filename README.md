@@ -32,6 +32,9 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |Amazon |Software Dev Engineer I,Amazon University Talent Acquisition| Multiple Locations(Pune,Delhi,Chennai,Hyderabad,Bengaluru,India) | [Apply Here](https://www.amazon.jobs/en/jobs/2876275/software-dev-engineer-i-amazon-university-talent-acquisition) |
 |Google |Software Engineer, Google Ads| Bengaluru, Karnataka, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/103421884527190726-software-engineer-google-ads) |
 |FedEx |Software Developer I| Hyderabad,India | [Apply Here](https://fedex.paradox.ai/co/FederalExpressCorporation41/Job?job_id=P25-189051-2) |
+|Turing |Remote Python AI Engineer|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4211296973/) |
+|Natwest |Data Engineer|Bengaluru, Karnataka, India | [Apply Here](https://jobs.natwestgroup.com/jobs/15955576-data-engineer?tm_job=R-00255363) |
+|Barclays |Full Stack Developer|Pune, India | [Apply Here](https://search.jobs.barclays/job/-/-/13015/70723257088) |
 |Oracle |Software Developer 2|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4209173056/) |
 |Secninjaz |AI/ML Intern| New Delhi,India | [Apply Here](https://www.secninjaz.com/careers.html) |
 |Globals |Software Engineering Intern | Bengaluru,India | [Apply Here](https://globals.zohorecruit.in/jobs/Careers/140088000000849002/Software-Engineering-Intern?source=CareerSite) |
