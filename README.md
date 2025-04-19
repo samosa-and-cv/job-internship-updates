@@ -30,9 +30,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
 |MediaTek |Internship 2025 |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4209564167/) |
-|Microsoft |Remote Python AI Engineer|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4211498196/) |
 |Sony Research India |Remote Python AI Engineer|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212138791/) |
-|Skuad: a Payoneer company |Remote Python AI Engineer|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4209927028/) |
+|Skuad: a Payoneer company |Software Engineer Intern|Gurugram, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4209927028/) |
 |Amazon |Software Dev Engineer I,Amazon University Talent Acquisition| Multiple Locations(Pune,Delhi,Chennai,Hyderabad,Bengaluru,India) | [Apply Here](https://www.amazon.jobs/en/jobs/2876275/software-dev-engineer-i-amazon-university-talent-acquisition) |
 |Google |Software Engineer, Google Ads| Bengaluru, Karnataka, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/103421884527190726-software-engineer-google-ads) |
 |FedEx |Software Developer I| Hyderabad,India | [Apply Here](https://fedex.paradox.ai/co/FederalExpressCorporation41/Job?job_id=P25-189051-2) |
