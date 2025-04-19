@@ -29,8 +29,9 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Microsoft|Research Sciences Intern|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4211498196/) |
 |MediaTek |Internship 2025 |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4209564167/) |
-|Sony Research India |Remote Python AI Engineer|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212138791/) |
+|o9 solutions|Intern QA|Bengaluru, Karnataka, India | [Apply Here](https://o9solutions.wd5.myworkdayjobs.com/en-US/o9SolutionsExternal/job/Bangalore-Karnataka-India/Intern---QA_JR101192) |
 |Skuad: a Payoneer company |Software Engineer Intern|Gurugram, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4209927028/) |
 |Amazon |Software Dev Engineer I,Amazon University Talent Acquisition| Multiple Locations(Pune,Delhi,Chennai,Hyderabad,Bengaluru,India) | [Apply Here](https://www.amazon.jobs/en/jobs/2876275/software-dev-engineer-i-amazon-university-talent-acquisition) |
 |Google |Software Engineer, Google Ads| Bengaluru, Karnataka, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/103421884527190726-software-engineer-google-ads) |
