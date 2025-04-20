@@ -29,6 +29,10 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|ClearFeed |Software Development Intern|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212230925/) |
+|Segwise.ai |Backend Engineering Internship(6m) |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212264475/) |
+|Reelo |AI Engineer - Intern| India | [Apply Here](https://reelo.keka.com/careers/jobdetails/77518) |
+|TartanHQ |Engineering Intern |Gurgaon, India | [Apply Here](https://tartanhq.keka.com/careers/jobdetails/16157) |
 |Infor|Software Engineer, Associate|Hyderabad, India | [Apply Here](https://careers.infor.com/en_US/careers/JobDetail/Software-Engineer-Associate/16910) |
 |Nextiva|Software Engineer I|Bengaluru, Karnataka, India | [Apply Here](https://www.nextiva.com/company/careers-listing?gh_jid=7863520002&gh_src=4b8a84072us) |
 |MediaTek |Internship 2025 |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4209564167/) |
