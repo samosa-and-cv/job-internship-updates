@@ -29,6 +29,11 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Pocket FM |SDET-Intern| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4210298495/?alternateChannel=search&refId=Q5eXrBOG7iH7082lAYHaIw%3D%3D&trackingId=61ooAcbnTFtOEUf4wf4eyg%3D%3D) |
+|WebBoost Solutions by UM|Data Analyst Intern| India(Remote) | [Apply Here](https://www.linkedin.com/jobs/view/4214088569/?alternateChannel=search&refId=Q5eXrBOG7iH7082lAYHaIw%3D%3D&trackingId=Cy%2FryyX6AlMKvjNClHb2cw%3D%3D) |
+|Aptiv |Intern SW Engineer| Bangalore, Karnataka, India | [Apply Here](https://www.aptiv.com/en/jobs/search/open-positions/J000680095) |
+|Swiggy |Software Development Engineer I (Storefront) - Java| India(Remote) | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
+|Meesho |Software Development Engineer - I (Frontend)| Bangalore, Karnataka | [Apply Here](https://www.meesho.io/jobs/software-development-engineer%E2%80%94i-frontend?id=6eb2f2ab-4eda-4bc2-8da2-865e2e4335f7) |
 |ClearFeed |Software Development Intern|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212230925/) |
 |Segwise.ai |Backend Engineering Internship(6m) |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212264475/) |
 |Reelo |AI Engineer - Intern| India | [Apply Here](https://reelo.keka.com/careers/jobdetails/77518) |
