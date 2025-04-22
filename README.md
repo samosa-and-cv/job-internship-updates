@@ -29,6 +29,9 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Deutsche bank |AI Engineer| Pune, India | [Apply Here](https://careers.db.com/professionals/search-roles/index#/professional/job/62731) |
+|Caterpillar |Software Engineer| Bangalore, Karnataka, India / Chennai, Tamil Nadu, India | [Apply Here](https://careers.caterpillar.com/en/jobs/job/r0000282190-software-engineer/) |
+|Caterpillar|Associate Engineer|Multiple (Aurangabad, Maharashtra / Bangalore, Karnataka / Thiruvallur, Tamil Nadu/ Chennai, Tamil Nadu/ Thiruvallur, Tamil Nadu) | [Apply Here](https://careers.caterpillar.com/en/jobs/job/r0000282203-associate-engineer/) |
 |Pocket FM |SDET-Intern| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4210298495/?alternateChannel=search&refId=Q5eXrBOG7iH7082lAYHaIw%3D%3D&trackingId=61ooAcbnTFtOEUf4wf4eyg%3D%3D) |
 |WebBoost Solutions by UM|Data Analyst Intern| India(Remote) | [Apply Here](https://www.linkedin.com/jobs/view/4214088569/?alternateChannel=search&refId=Q5eXrBOG7iH7082lAYHaIw%3D%3D&trackingId=Cy%2FryyX6AlMKvjNClHb2cw%3D%3D) |
 |Aptiv |Intern SW Engineer| Bangalore, Karnataka, India | [Apply Here](https://www.aptiv.com/en/jobs/search/open-positions/J000680095) |
