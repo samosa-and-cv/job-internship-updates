@@ -29,6 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           |
 |--------------|---------------|-----------------|----------------------|
+|Harman |Intern - Android HMI| Pimpri Chinchwad, Maharashtra, India  | [Apply Here](https://www.linkedin.com/jobs/view/4211355486/?alternateChannel=search&refId=3nas%2Be1zQyJqup4ObDXEFw%3D%3D&trackingId=DbOZYI7dp%2BOWcG7UXUNEbw%3D%3D) |
+|Jacobs |Intern - BTS|Gurgaon, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4212793225/?alternateChannel=search&refId=ETfLet7uadJUfwFk5G7Pbw%3D%3D&trackingId=MCWtGLJfXjqmbT3xQh4c2A%3D%3D) |
+|Salesforce |Intern|Bengaluru, Karnataka, India| [Apply Here](https://www.linkedin.com/jobs/view/4214598313/?alternateChannel=search&refId=juZlsAN58sacu%2BEd2micfA%3D%3D&trackingId=OTcDnC2TCpZ9a8YryOPjfw%3D%3D) |
+|SS Rana and co. |Machine Learning Internship|Delhi, India | [Apply Here](https://www.linkedin.com/jobs/view/4213042904/?alternateChannel=search&refId=3nas%2Be1zQyJqup4ObDXEFw%3D%3D&trackingId=LjTBWgtggfLrcwVd87uR5w%3D%3D) |
+|Weir Minerals |Unity Intern| Bengaluru, Karnataka, India| [Apply Here](https://www.linkedin.com/jobs/view/4110007963/?alternateChannel=search&refId=3nas%2Be1zQyJqup4ObDXEFw%3D%3D&trackingId=yA9R31zaMc8pG%2B8uv6S6ig%3D%3D) |
+|Bigship |Product Intern| Dehradun, Uttarakhand, India | [Apply Here](https://www.linkedin.com/jobs/view/4208246719/?alternateChannel=search&refId=3nas%2Be1zQyJqup4ObDXEFw%3D%3D&trackingId=k85Z2A9JURoxqIgDB3LPFw%3D%3D) |
+|Data Design |Artificial Intelligence Intern| India(Remote) | [Apply Here](https://www.linkedin.com/jobs/view/4211304664/?alternateChannel=search&refId=wTIUp0RSe4bF8S5TTveULw%3D%3D&trackingId=iQwwMwFUQFQ9vH2lZqGoMQ%3D%3D) |
 |Deutsche bank |AI Engineer| Pune, India | [Apply Here](https://careers.db.com/professionals/search-roles/index#/professional/job/62731) |
 |Caterpillar |Software Engineer| Bangalore, Karnataka, India / Chennai, Tamil Nadu, India | [Apply Here](https://careers.caterpillar.com/en/jobs/job/r0000282190-software-engineer/) |
 |Caterpillar|Associate Engineer|Multiple (Aurangabad, Maharashtra / Bangalore, Karnataka / Thiruvallur, Tamil Nadu/ Chennai, Tamil Nadu/ Thiruvallur, Tamil Nadu) | [Apply Here](https://careers.caterpillar.com/en/jobs/job/r0000282203-associate-engineer/) |
