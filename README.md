@@ -81,13 +81,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |Fulcrum Digital |Data Engineer | Pune,India | [Apply Here](https://jobs.fulcrumdigital.com/jobs/India/613047000042426913/Data-Engineer?source=CareerSite) |
 |NatWest |Data Engineer | Bengaluru,Karnataka | [Apply Here](https://jobs.natwestgroup.com/jobs/15955576-data-engineer?tm_job=R-00255363&tm_event=view&tm_company=861) |
 |Weekday AI |SDE1 Intern | Bengaluru,Karnataka | [Apply Here](https://www.linkedin.com/jobs/view/4210693257/?alternateChannel=search&refId=NotAvailable&trackingId=7ZR6LclwTJSqv85Pww1FkA%3D%3D) |
-|Bright Money |SDE Intern | Bengaluru,Karnataka | [Apply Here](https://careers.kula.ai/brightmoney/2394) |
+|Bright Money❌ |SDE Intern | Bengaluru,Karnataka | [Apply Here](https://careers.kula.ai/brightmoney/2394) |
 |Walmart |Grad Intern| Bengaluru,Karnataka | [Apply Here](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Grad-Intern---No-Work-Experience_R-2152503) |
 |Barclays |AI/ML engineer | Pune,India | [Apply Here](https://search.jobs.barclays/job/pune/ai-ml-engineer-ai/13015/79569933392) |
 |Dhroov |UI/UX designer intern | Remote(USA) | [Apply Here](https://cuvette.tech/app/student/internship/67f149dbc6e92c44f7077422) |
-|Sophos |SDET Intern(6 months) | Bengaluru,Karnataka | [Apply Here](https://www.linkedin.com/jobs/view/4199740016/) |
+|Sophos❌ |SDET Intern(6 months) | Bengaluru,Karnataka | [Apply Here](https://www.linkedin.com/jobs/view/4199740016/) |
 |Swiggy |Software Development Engineer I (Storefront) - Java | Remote | [Apply Here](https://www.linkedin.com/jobs/view/4207926048/) |
-|Google |Software Engineer| Bangalore, India ; Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
+|Google❌ |Software Engineer| Bangalore, India ; Gurugram, India | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/112954792476582598-software-engineer-university-graduate-2026) |
 |Adobe |Software Quality Engineer| Bangalore, India | [Apply Here](https://careers.adobe.com/us/en/job/R154714/Software-Quality-Engineer) |
 |ClearFeed ❌ |Software Development Intern (Frontend)| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4184597265/) |
 |NCR VOYIX ❌ |Software Engineer I | CHENNAI, IND | [Apply Here](https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/CHENNAI-IND/Software-Engineer-I_BHC20251771) |
@@ -96,10 +96,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |Amazon |Software Dev Engineer I |Hyderabad,Chennai,Delhi,Bengaluru, India  | [Apply Here](https://www.amazon.jobs/en/jobs/2877272/software-dev-engineer-i-amazon-university-talent-acquisition) |
 |Warner Bros Discovery❌ |ML Engineer |Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4138254707/?alternateChannel=search&refId=NotAvailable&trackingId=jzjRsoVjSmKj%2FiJFH4%2Fgxg%3D%3D) |
 |Capital One❌ |Data Scientist  |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138455095/?alternateChannel=search&refId=NotAvailable&trackingId=lmodd%2BqWTF%2Bna1i1ZZhGXg%3D%3D) |
-|Citi |Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138834070/?alternateChannel=search&refId=NotAvailable&trackingId=JNHnbX5JQMK1SUr1sq%2F0lw%3D%3D) |
-|PayPal|Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4136121058/?alternateChannel=search&refId=NotAvailable&trackingId=4bw9H5%2FcQieQGzBUkLhNdw%3D%3D) |
-|American Express |Data Engineer I - Digital Banking  |Bengaluru, Karnataka, India| [Apply Here](https://aexp.eightfold.ai/careers/job/27026149?hl=en&utm_source=test123&utm_medium=campaign123&domain=aexp.com) |
-|Razorpay |Software Development Engineer in Test  |Bangalore, India  | [Apply Here](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4519810005) |
+|Citi❌ |Data Scientist |Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138834070/?alternateChannel=search&refId=NotAvailable&trackingId=JNHnbX5JQMK1SUr1sq%2F0lw%3D%3D) |
+|American Express❌ |Data Engineer I - Digital Banking  |Bengaluru, Karnataka, India| [Apply Here](https://aexp.eightfold.ai/careers/job/27026149?hl=en&utm_source=test123&utm_medium=campaign123&domain=aexp.com) |
 |Synopsys |Intern (Technical-Engineering) | Noida, Uttar Pradesh, India  | [Apply Here](https://careers.synopsys.com/job/-/-/44408/76675542352) |
 |CapitalOne |Software Engineering Intern | Bengaluru, India | [Apply Here](https://www.capitalonecareers.com/job/-/-/1732/76639281456) |
 |Honeywell |Data Engineer | Noida, Uttar Pradesh, India  | [Apply Here](https://www.linkedin.com/jobs/view/4138080102/?alternateChannel=search&refId=CyxpkyIWS96nOdIsSG5ZCQ%3D%3D&trackingId=RYhI97%2BvbXo8jbCAQ3KwdQ%3D%3D) |
