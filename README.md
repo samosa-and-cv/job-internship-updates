@@ -46,7 +46,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 |Meesho |Software Development Engineer - I (Frontend)| Bangalore, Karnataka | [Apply Here](https://www.meesho.io/jobs/software-development-engineer%E2%80%94i-frontend?id=6eb2f2ab-4eda-4bc2-8da2-865e2e4335f7) |
 |ClearFeed |Software Development Intern|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212230925/) |
 |Segwise.ai |Backend Engineering Internship(6m) |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4212264475/) |
-|Reelo |AI Engineer - Intern| India | [Apply Here](https://reelo.keka.com/careers/jobdetails/77518) |
+|Reelo ❌|AI Engineer - Intern| India | [Apply Here](https://reelo.keka.com/careers/jobdetails/77518) |
 |TartanHQ |Engineering Intern |Gurgaon, India | [Apply Here](https://tartanhq.keka.com/careers/jobdetails/16157) |
 |Infor|Software Engineer, Associate|Hyderabad, India | [Apply Here](https://careers.infor.com/en_US/careers/JobDetail/Software-Engineer-Associate/16910) |
 |Nextiva|Software Engineer I|Bengaluru, Karnataka, India | [Apply Here](https://www.nextiva.com/company/careers-listing?gh_jid=7863520002&gh_src=4b8a84072us) |
