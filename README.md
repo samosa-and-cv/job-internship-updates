@@ -27,8 +27,15 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 
 
-| Company Name | Role          | Location        | Apply Link           |
-|--------------|---------------|-----------------|----------------------|
+| Company Name | Role          | Location        | Apply Link           | Note 
+|--------------|---------------|-----------------|----------------------|-----------------------|
+|KPMG |Executive - Java Backend| Bangalore, Karnataka, India| [Apply Here](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10028676) |
+|KPMG |Analyst - Front End-React| Gurgaon, Haryana, India | [Apply Here](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10029098) |
+|KPMG|Senior - Java Backend| Bangalore, India | [Apply Here](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10027415) |
+|BlueYonder |Software Engineer I - Java Developer| Pune, India | [Apply Here](https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Pune/Software-Engineer-I---Java-Developer_251628) |Deadline-24-04-2025|
+|Phonepe |System Engineer 1| Mumbai, India | [Apply Here](https://job-boards.greenhouse.io/phonepe/jobs/6550839003) |
+|Cornerstone |Junior Engineer| Pune, India | [Apply Here](https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/10306?c=cornerstone&sq=req10306) |
+|Merck |Engineer - AI Solutions 1| Bangalore, Karnataka, India | [Apply Here](https://careers.emdgroup.com/us/en/job/MQAEGZUS287477EXTERNALENUS/Engineer-AI-Solutions-1) |
 |Harman❌ |Intern - Android HMI| Pimpri Chinchwad, Maharashtra, India  | [Apply Here](https://www.linkedin.com/jobs/view/4211355486/?alternateChannel=search&refId=3nas%2Be1zQyJqup4ObDXEFw%3D%3D&trackingId=DbOZYI7dp%2BOWcG7UXUNEbw%3D%3D) |
 |Jacobs |Intern - BTS|Gurgaon, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4212793225/?alternateChannel=search&refId=ETfLet7uadJUfwFk5G7Pbw%3D%3D&trackingId=MCWtGLJfXjqmbT3xQh4c2A%3D%3D) |
 |Salesforce❌ |Intern|Bengaluru, Karnataka, India| [Apply Here](https://www.linkedin.com/jobs/view/4214598313/?alternateChannel=search&refId=juZlsAN58sacu%2BEd2micfA%3D%3D&trackingId=OTcDnC2TCpZ9a8YryOPjfw%3D%3D) |
