@@ -29,6 +29,10 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Airbus |Internship AI| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4211633835) |
+|SHL|Research Intern, AI| Gurgaon, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4194771392) |
+|Condé Nast Technology Lab|Early Career Program| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4207718899) |
+|Matercard |Software Engineer I-R-247060| Pune, Maharashtra, India  | [Apply Here](https://www.linkedin.com/jobs/view/4211696236/?alternateChannel=search&refId=IwRsh0%2Fxy1lmsEtnjAfrpQ%3D%3D&trackingId=wd990LBYoR8Npdwm0JR1wA%3D%3D) |
 |KPMG |Executive - Java Backend| Bangalore, Karnataka, India| [Apply Here](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10028676) |
 |KPMG |Analyst - Front End-React| Gurgaon, Haryana, India | [Apply Here](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10029098) |
 |KPMG|Senior - Java Backend| Bangalore, India | [Apply Here](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10027415) |
