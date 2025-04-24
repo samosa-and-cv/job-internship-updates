@@ -29,6 +29,14 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Itron |Software Eng Intern| Bengaluru, Karnataka, India | [Apply Here](https://itron.wd5.myworkdayjobs.com/Itron/job/India-Bangalore/Software-Eng-Intern_JR100753) |
+|Hackerearth |Technical Engineer - Problem Setter (Programming ) - Internship| Bengalore, Karnataka, India | [Apply Here](https://hackerearth.applytojob.com/apply/bVNnh49TFW/Technical-Engineer-Problem-Setter-Programming--Internship?referrer=2025042418544119PDIA311MWTKJE4) |
+|Juspay |Internship AI| Bengalore, Karnataka, India | [Apply Here](https://joinus.juspay.in/?jobId=DEV-BE02) |
+|Richpanel |Fullstack Engineering Intern| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4214676332) |
+|Juspay|Software Development Engineer Backend| Bengalore, Karnataka, India | [Apply Here](https://joinus.juspay.in/?jobId=DEV-BE01) |
+|Amazon |Software Development Engineer I| Bengaluru, Karnataka, India | [Apply Here](https://www.amazon.jobs/en/jobs/2959826/software-development-engineer-i?cmpid=DA_INAD200785B) |
+|JPMorganChase |Software Engineer I| Mumbai, Maharashtra, India | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210549125/?utm_medium=jobshare&utm_source=External+Job+Share) |
+|HoneyWell |Systems Engr I| Location56 & 57 Hadapsar Industrial Estate, Pune, MAHARASHTRA, 411013, India | [Apply Here](https://careers.honeywell.com/us/en/job/HRD263731) |
 |Airbus |Internship AI| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4211633835) |
 |SHL|Research Intern, AI| Gurgaon, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4194771392) |
 |Condé Nast Technology Lab|Early Career Program| Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4207718899) |
