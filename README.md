@@ -29,6 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Icanio |Software Dev Intern| Tirunelveli, India | [Apply Here](https://zrec.in/hn0Dt?source=CareerSite) |
+|Ikea |Junior Software Engineer| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4213182693) |
+|Motorola solutions |Software Engineer | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217295877) |
+|Nokia|Network Engineer (Young Graduate Program) | Gurugram, Haryana, India  | [Apply Here](https://www.linkedin.com/jobs/view/4214257616) |
+|ZF |Software Development Engineer|  Chennai, TN, India | [Apply Here](https://jobs.zf.com/job/Chennai-Software-Development-Engineer-TN-600116/1195318801/) |
+|Dentsu |Software Engineer| Bengaluru, Karnataka, India | [Apply Here](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Bengaluru/Software-Engineer_R1088172) |
+|Converse(Nike) |Data Engineer I, Global Converse, ITC| 4/F, WeWork, Embassy GolfLinks, Karnataka, Karnataka 560093, India| [Apply Here](https://careers.nike.com/data-engineer-i-global-converse-itc/job/R-56138?) |
 |Itron |Software Eng Intern| Bengaluru, Karnataka, India | [Apply Here](https://itron.wd5.myworkdayjobs.com/Itron/job/India-Bangalore/Software-Eng-Intern_JR100753) |
 |Hackerearth |Technical Engineer - Problem Setter (Programming ) - Internship| Bengalore, Karnataka, India | [Apply Here](https://hackerearth.applytojob.com/apply/bVNnh49TFW/Technical-Engineer-Problem-Setter-Programming--Internship?referrer=2025042418544119PDIA311MWTKJE4) |
 |Juspay |Internship AI| Bengalore, Karnataka, India | [Apply Here](https://joinus.juspay.in/?jobId=DEV-BE02) |
