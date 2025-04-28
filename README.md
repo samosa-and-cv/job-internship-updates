@@ -29,6 +29,11 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Amazon |SDE-1| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4215147951) |
+|Wells Fargo |Software Engineer| Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4217408106) |
+|Samsung Electronics |Graphics Software Engineer | Noida, Uttar Pradesh, India  | [Apply Here](https://www.linkedin.com/jobs/view/4214281856) |
+|Workday |Software Development Engineer | Greater Chennai Area, India | [Apply Here](https://www.linkedin.com/jobs/view/4215665120) |
+|Lowe`s |Software Engineer|Bengaluru, Karnataka, India  | [Apply Here](https://www.linkedin.com/jobs/view/4213399671) |
 |Icanio |Software Dev Intern| Tirunelveli, India | [Apply Here](https://zrec.in/hn0Dt?source=CareerSite) |
 |Ikea |Junior Software Engineer| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4213182693) |
 |Motorola solutions |Software Engineer | Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217295877) |
