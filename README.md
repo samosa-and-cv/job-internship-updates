@@ -29,6 +29,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|DocuSign|Data Engineer Intern| Bengaluru, Karnataka, India | [Apply Here](https://careers.docusign.com/jobs/26762?lang=en-us) |
 |Amazon |SDE-1| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4215147951) |
 |Wells Fargo |Software Engineer| Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4217408106) |
 |Samsung Electronics |Graphics Software Engineer | Noida, Uttar Pradesh, India  | [Apply Here](https://www.linkedin.com/jobs/view/4214281856) |
