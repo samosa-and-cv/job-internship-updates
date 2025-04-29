@@ -30,7 +30,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
 |Red Hat |Software Engineering Trainee| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217364943) |
-|Myntra |Software Development Internship| Bengaluru, Karnataka, India | [Apply Here](https://unstop.com/o/WStMBu9?utm_medium=Share&utm_source=shortUrl) |
+|Myntra |Software Development Internship( 6m )| Bengaluru, Karnataka, India | [Apply Here](https://unstop.com/o/WStMBu9?utm_medium=Share&utm_source=shortUrl) |For 2026 Batch,Application closes soon|
 |PTC |Software Engineer Intern|Pune, Maharashtra, India | [Apply Here](https://www.linkedin.com/jobs/view/4217303507) |
 |Recruit Forge |Data Science Intern|Remote( India) | [Apply Here](https://www.linkedin.com/jobs/view/4215147951) |
 |Xiaomi|Intern – Camera Team|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4215814820) |
