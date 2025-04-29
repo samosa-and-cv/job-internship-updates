@@ -29,6 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Red Hat |Software Engineering Trainee| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217364943) |
+|Myntra |Software Development Internship| Bengaluru, Karnataka, India | [Apply Here](https://unstop.com/o/WStMBu9?utm_medium=Share&utm_source=shortUrl) |
+|PTC |Software Engineer Intern|Pune, Maharashtra, India | [Apply Here](https://www.linkedin.com/jobs/view/4217303507) |
+|Recruit Forge |Data Science Intern|Remote( India) | [Apply Here](https://www.linkedin.com/jobs/view/4215147951) |
+|Xiaomi|Intern – Camera Team|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4215814820) |
+|Lead |Data Analytics Intern| Remote (India) | [Apply Here](https://www.linkedin.com/jobs/view/4217852185) |
+|Amber |Intern - Data and Analytics | Pune, Maharashtra, India | [Apply Here](https://www.linkedin.com/jobs/view/4217319315) |
 |DocuSign|Data Engineer Intern| Bengaluru, Karnataka, India | [Apply Here](https://careers.docusign.com/jobs/26762?lang=en-us) |
 |Amazon |SDE-1| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4215147951) |
 |Wells Fargo |Software Engineer| Hyderabad, Telangana, India | [Apply Here](https://www.linkedin.com/jobs/view/4217408106) |
