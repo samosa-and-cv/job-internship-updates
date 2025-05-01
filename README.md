@@ -30,6 +30,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
 |Red Hat |Software Engineering Trainee| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217364943) |
+|Red Hat |Software Engineering Trainee| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217364943) |
 |Myntra |Software Development Internship( 6m )| Bengaluru, Karnataka, India | [Apply Here](https://unstop.com/o/WStMBu9?utm_medium=Share&utm_source=shortUrl) |For 2026 Batch,Application closes soon|
 |PTC |Software Engineer Intern|Pune, Maharashtra, India | [Apply Here](https://www.linkedin.com/jobs/view/4217303507) |
 |Recruit Forge |Data Science Intern|Remote( India) | [Apply Here](https://www.linkedin.com/jobs/view/4216115357) |
@@ -209,10 +210,11 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
+|Goldman Sachs India Hackathon 2025  | May 4, 2025| [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/india/hackathon) |
 |Code for GovTech(DMP)  | 3rd May, 2025 | [Apply Here](https://apna.co/contests/dmp_2025) |
-|Campus Beats(ZS Associates)  | 18 April, 2025 | [Apply Here](https://app.joinsuperset.com/join/#/COMPANY/c0ca2554-565e-4d4d-b244-0cdfddda0bbc/competitions/5e9c8b35-0bda-4d58-9285-dd75fad6bdfa) |
-|Codess Cafe Mentorship program ♀️  | 20th April, 2025 | [Apply Here](https://forms.gle/pYZKRkdBQ2Bdndty9) |
-|Hathor Network  | 23rd April, 2025 | [Apply Here](https://hathornetworks.hackerearth.com/?utm_source=arsh&utm_medium=instagram&utm_campaign=nano-contracts-hackathon-unleashing-the-power-of-hathor-network) |
+|Campus Beats(ZS Associates) ❌ | 18 April, 2025 | [Apply Here](https://app.joinsuperset.com/join/#/COMPANY/c0ca2554-565e-4d4d-b244-0cdfddda0bbc/competitions/5e9c8b35-0bda-4d58-9285-dd75fad6bdfa) |
+|Codess Cafe Mentorship program ♀️❌  | 20th April, 2025 | [Apply Here](https://forms.gle/pYZKRkdBQ2Bdndty9) |
+|Hathor Network ❌ | 23rd April, 2025 | [Apply Here](https://hathornetworks.hackerearth.com/?utm_source=arsh&utm_medium=instagram&utm_campaign=nano-contracts-hackathon-unleashing-the-power-of-hathor-network) |
 
 
 
