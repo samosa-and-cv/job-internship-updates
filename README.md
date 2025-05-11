@@ -29,7 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
-|Red Hat |Software Engineering Trainee| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217364943) |
+|Tata CLiQ Fashion |Intern - Data Analytics (supply Chain)|Mumbai Metropolitan Region(Hybrid) | [Apply Here](https://www.linkedin.com/jobs/view/4219736054) |
+|Officebanao |Data Science Intern|Gurugram, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4216630808) |
+|bluCognition |Analytics - Intern|India (Remote)| [Apply Here](https://www.linkedin.com/jobs/view/4226708863) |
+|Black Coffee Robotics |Robotics Internship|India (Remote) | [Apply Here](https://www.linkedin.com/jobs/view/4222817832/) |
+|STREET |AI/ML Engineer Intern|India (Remote) | [Apply Here](https://www.linkedin.com/jobs/view/4223771779/) |
+|Uber |Data Scientist I, (Product Analytics) |Hyderabad, Telangana, India  | [Apply Here](https://www.linkedin.com/jobs/view/4225427990/) |
+|Red Hat |Associate Machine Learning Engineer|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4224299225/) |
 |Red Hat |Software Engineering Trainee| Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4217364943) |
 |Myntra |Software Development Internship( 6m )| Bengaluru, Karnataka, India | [Apply Here](https://unstop.com/o/WStMBu9?utm_medium=Share&utm_source=shortUrl) |For 2026 Batch,Application closes soon|
 |PTC |Software Engineer Intern|Pune, Maharashtra, India | [Apply Here](https://www.linkedin.com/jobs/view/4217303507) |
