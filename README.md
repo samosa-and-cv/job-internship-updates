@@ -29,6 +29,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|upGrad |Software Engineer |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4235093685) |
+|Frnd |Backend Intern|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4237359629) |
 |Tata CLiQ Fashion |Intern - Data Analytics (supply Chain)|Mumbai Metropolitan Region(Hybrid) | [Apply Here](https://www.linkedin.com/jobs/view/4219736054) |
 |Officebanao |Data Science Intern|Gurugram, Haryana, India | [Apply Here](https://www.linkedin.com/jobs/view/4216630808) |
 |bluCognition |Analytics - Intern|India (Remote)| [Apply Here](https://www.linkedin.com/jobs/view/4226708863) |
@@ -216,6 +218,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
+|NXP AIM India  |  23 June, 2025| [Apply Here](https://www.nxp.com/company/about-nxp/events/nxp-aim-india:NXP-AIM-INDIA?tid=vanNXP-AIM-INDIA) |
 |Goldman Sachs India Hackathon 2025  | May 4, 2025| [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/india/hackathon) |
 |Code for GovTech(DMP)  | 3rd May, 2025 | [Apply Here](https://apna.co/contests/dmp_2025) |
 |Campus Beats(ZS Associates) ❌ | 18 April, 2025 | [Apply Here](https://app.joinsuperset.com/join/#/COMPANY/c0ca2554-565e-4d4d-b244-0cdfddda0bbc/competitions/5e9c8b35-0bda-4d58-9285-dd75fad6bdfa) |
