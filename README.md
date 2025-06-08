@@ -29,6 +29,12 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Codex |Students Program Codex: Junior Developer |Remote (Worldwide)| [Apply Here](https://job-boards.greenhouse.io/codex/jobs/6918941) | Requires Reference letter from your college professor|
+|Innovaccer Inc. Logo |Intern-Python |Noida, Uttar Pradesh, India| [Apply Here](https://job-boards.greenhouse.io/innovaccer/jobs/7994338002) |
+|Tower Research |Core Engineering Intern |Gurgaon, India | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=6903711&gh_src=be8ebc4b1) |
+|Lowe's |Associate Software Engineering |Bengaluru, Karnataka, India | [Apply Here](https://talent.lowes.com/in/en/job/JR-02166621/Associate-Software-Engineering) |
+|Wittypen |Software Engineering Intern |Pune, India | [Apply Here](https://zrec.in/IMEqW?source=p_linkedin) |
+|Nike |Data Engineer, ITC|WeWork, Embassy GolfLinks, Karnataka, India | [Apply Here](https://careers.nike.com/data-engineer-itc/job/R-63119?source=BY_Indeed_AppFeeder&utm_source=BY_Indeed_AppFeeder) |
 |upGrad |Software Engineer |Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4235093685) |
 |Frnd |Backend Intern|Bengaluru, Karnataka, India | [Apply Here](https://www.linkedin.com/jobs/view/4237359629) |
 |Tata CLiQ Fashion |Intern - Data Analytics (supply Chain)|Mumbai Metropolitan Region(Hybrid) | [Apply Here](https://www.linkedin.com/jobs/view/4219736054) |
