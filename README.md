@@ -29,8 +29,11 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Google |Software Engineer, University Graduate, 2026 |Multiple Locations within India| [Apply Here](https://www.google.com/about/careers/applications/jobs/results/111007517923779270-software-engineer-university-graduate-2026) |
+|Visa |Data Engineer |Bangalore, India| [Apply Here](https://jobs.smartrecruiters.com/Visa/744000063887675-data-engineer-0-5-1-5-years-of-experience-in-java-python-hadoop-spark-) |0.5 - 1.5 years of experience in Java / Python, Hadoop, Spark|
+|Zunno AI |Software Engineer | India| [Apply Here](https://www.linkedin.com/jobs/view/4244776727) |
 |Codex |Students Program Codex: Junior Developer |Remote (Worldwide)| [Apply Here](https://job-boards.greenhouse.io/codex/jobs/6918941) | Requires Reference letter from your college professor|
-|Innovaccer Inc. Logo |Intern-Python |Noida, Uttar Pradesh, India| [Apply Here](https://job-boards.greenhouse.io/innovaccer/jobs/7994338002) |
+|Innovaccer Inc. |Intern-Python |Noida, Uttar Pradesh, India| [Apply Here](https://job-boards.greenhouse.io/innovaccer/jobs/7994338002) |
 |Tower Research |Core Engineering Intern |Gurgaon, India | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=6903711&gh_src=be8ebc4b1) |
 |Lowe's |Associate Software Engineering |Bengaluru, Karnataka, India | [Apply Here](https://talent.lowes.com/in/en/job/JR-02166621/Associate-Software-Engineering) |
 |Wittypen |Software Engineering Intern |Pune, India | [Apply Here](https://zrec.in/IMEqW?source=p_linkedin) |
@@ -224,6 +227,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
+|Adobe India Hackathon |  8 July, 2025| [Apply Here](https://unstop.com/hackathons/adobe-india-hackathon-adobe-1483364?lb=NcRhAyg) |
+|Walmart Sparkathon |  14 July, 2025| [Apply Here](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) |
 |NXP AIM India  |  23 June, 2025| [Apply Here](https://www.nxp.com/company/about-nxp/events/nxp-aim-india:NXP-AIM-INDIA?tid=vanNXP-AIM-INDIA) |
 |Goldman Sachs India Hackathon 2025  | May 4, 2025| [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/india/hackathon) |
 |Code for GovTech(DMP)  | 3rd May, 2025 | [Apply Here](https://apna.co/contests/dmp_2025) |
