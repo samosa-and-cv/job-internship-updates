@@ -29,6 +29,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Juspay |Software Development Engineer Backend Intern | Banglore,India| [Apply Here](https://juspay.io/careers/DEV-BE02?utm_source=Software_Development_Engineer_Backend_Internship_unstop&utm_medium=listing&utm_campaign=unstop) |
 |Google |Software Engineer, University Graduate, 2026 |Multiple Locations within India| [Apply Here](https://www.google.com/about/careers/applications/jobs/results/111007517923779270-software-engineer-university-graduate-2026) |
 |Visa |Data Engineer |Bangalore, India| [Apply Here](https://jobs.smartrecruiters.com/Visa/744000063887675-data-engineer-0-5-1-5-years-of-experience-in-java-python-hadoop-spark-) |0.5 - 1.5 years of experience in Java / Python, Hadoop, Spark|
 |Zunno AI |Software Engineer | India| [Apply Here](https://www.linkedin.com/jobs/view/4244776727) |
@@ -227,6 +228,8 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
+|Meesho ScriptedByHer|  June 24, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
+|Juspay Hiring Challenge 2025|  13 July, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
 |Adobe India Hackathon |  8 July, 2025| [Apply Here](https://unstop.com/hackathons/adobe-india-hackathon-adobe-1483364?lb=NcRhAyg) |
 |Walmart Sparkathon |  14 July, 2025| [Apply Here](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) |
 |NXP AIM India  |  23 June, 2025| [Apply Here](https://www.nxp.com/company/about-nxp/events/nxp-aim-india:NXP-AIM-INDIA?tid=vanNXP-AIM-INDIA) |
