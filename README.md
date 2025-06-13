@@ -5,8 +5,8 @@ Welcome to your one-stop repo for the latest **jobs, internships, mentorships, a
 Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for real-time alerts!
 
 ## 📚 Table of Contents
-- [💼 Job and Internship Updates](#-job-and-internship-updates)
-- [🤝 Mentorship & Hackathons](#-mentorship--hackathons)
+- ## [💼 Job and Internship Updates](#-job-and-internship-updates)
+- ## [🤝 Mentorship & Hackathons](#-mentorship--hackathons)
 
 ---
 ### Legend
@@ -228,12 +228,12 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
-|Meesho ScriptedByHer|  June 24, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
+|Meesho ScriptedByHer| 24 June, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
 |Juspay Hiring Challenge 2025|  13 July, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
 |Adobe India Hackathon |  8 July, 2025| [Apply Here](https://unstop.com/hackathons/adobe-india-hackathon-adobe-1483364?lb=NcRhAyg) |
 |Walmart Sparkathon |  14 July, 2025| [Apply Here](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) |
 |NXP AIM India  |  23 June, 2025| [Apply Here](https://www.nxp.com/company/about-nxp/events/nxp-aim-india:NXP-AIM-INDIA?tid=vanNXP-AIM-INDIA) |
-|Goldman Sachs India Hackathon 2025  | May 4, 2025| [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/india/hackathon) |
+|Goldman Sachs India Hackathon 2025  |4 May, 2025| [Apply Here](https://www.goldmansachs.com/careers/students/programs-and-internships/india/hackathon) |
 |Code for GovTech(DMP)  | 3rd May, 2025 | [Apply Here](https://apna.co/contests/dmp_2025) |
 |Campus Beats(ZS Associates) ❌ | 18 April, 2025 | [Apply Here](https://app.joinsuperset.com/join/#/COMPANY/c0ca2554-565e-4d4d-b244-0cdfddda0bbc/competitions/5e9c8b35-0bda-4d58-9285-dd75fad6bdfa) |
 |Codess Cafe Mentorship program ♀️❌  | 20th April, 2025 | [Apply Here](https://forms.gle/pYZKRkdBQ2Bdndty9) |
