@@ -228,7 +228,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
-|Meesho ScriptedByHer| 24 June, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
+|Meesho ScriptedByHer| 24 June, 2025| [Apply Here](https://www.hackerearth.com/challenges/hackathon/scriptedbyher-reg/?utm_source=he_email&utm_medium=cta&utm_campaign=scriptedbyher-reg&register_success=true) |
 |Juspay Hiring Challenge 2025|  13 July, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
 |Adobe India Hackathon |  8 July, 2025| [Apply Here](https://unstop.com/hackathons/adobe-india-hackathon-adobe-1483364?lb=NcRhAyg) |
 |Walmart Sparkathon |  14 July, 2025| [Apply Here](https://walmart.converge.tech/content/converge/en_in/sparkathon.html) |
