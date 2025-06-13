@@ -6,7 +6,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 ## 📚 Table of Contents
 - ## [💼 Job and Internship Updates](#-job-and-internship-updates)
-- ## [🤝 Mentorship and Hackathons](#-mentorship--hackathons)
+- ## [🤝 Mentorship and Hackathons](#-mentorship-and-hackathons-1)
 
 ---
 ### Legend
