@@ -6,7 +6,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 ## 📚 Table of Contents
 - ## [💼 Job and Internship Updates](#-job-and-internship-updates)
-- ## [🤝 Mentorship & Hackathons](#-mentorship--hackathons)
+- ## [🤝 Mentorship and Hackathons](#-mentorship--hackathons)
 
 ---
 ### Legend
@@ -218,7 +218,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 | Apple     | Full Stack Engineer - Java and React JS   | Hyderabad, Telangana, India     | [Apply Here](https://jobs.apple.com/en-us/details/200551354/full-stack-engineer-java-and-react-js?team=SFTWR) |
 
 
-## 🤝 Mentorship & Hackathons
+## 🤝 Mentorship and Hackathons
 
 🚀 Curated programs, fellowships, and hackathon opportunities to help you grow and build!  
 
