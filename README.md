@@ -29,6 +29,11 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Upstox |Web Designer Internship |Bengaluru, India| [Apply Here](https://unstop.com/o/NKoIRVL?utm_medium=Share&utm_source=shortUrl) |
+|Zuddl |AI/ML Intern |India| [Apply Here](https://zuddl.keka.com/careers/jobdetails/88435) |
+|Seagate |Intern-Web Application developer |Pune, MH, IN| [Apply Here](https://seagatecareers.com/job/Pune-Intern-Web-Application-developer-MH/1277276100/) |
+|Amazon |Software Development Engineer, Software Dev Engineer |Karnataka,India| [Apply Here](https://www.amazon.jobs/en/jobs/2982519/software-development-engineer-software-dev-engineer) |
+|Amazon |Data Engineer|Karnataka,India| [Apply Here](https://www.amazon.jobs/en/jobs/2960713/data-engineer) |
 |Juspay |Software Development Engineer Backend Intern | Banglore,India| [Apply Here](https://juspay.io/careers/DEV-BE02?utm_source=Software_Development_Engineer_Backend_Internship_unstop&utm_medium=listing&utm_campaign=unstop) |
 |Google |Software Engineer, University Graduate, 2026 |Multiple Locations within India| [Apply Here](https://www.google.com/about/careers/applications/jobs/results/111007517923779270-software-engineer-university-graduate-2026) |
 |Visa |Data Engineer |Bangalore, India| [Apply Here](https://jobs.smartrecruiters.com/Visa/744000063887675-data-engineer-0-5-1-5-years-of-experience-in-java-python-hadoop-spark-) |0.5 - 1.5 years of experience in Java / Python, Hadoop, Spark|
@@ -228,6 +233,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
+|Flipkart GRiD 7.0| 30 June,2025 | [Apply Here](https://mycareernet.in/mycareernet/contests/Flipkart-Flipkart-GRiD-7-0--234) |
 |Meesho ScriptedByHer| 24 June, 2025| [Apply Here](https://www.hackerearth.com/challenges/hackathon/scriptedbyher-reg/?utm_source=he_email&utm_medium=cta&utm_campaign=scriptedbyher-reg&register_success=true) |
 |Juspay Hiring Challenge 2025|  13 July, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
 |Adobe India Hackathon |  8 July, 2025| [Apply Here](https://unstop.com/hackathons/adobe-india-hackathon-adobe-1483364?lb=NcRhAyg) |
