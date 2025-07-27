@@ -29,6 +29,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|Amazon |Data Scientist Intern | Hyderabad/New Delhi/Chennai| [Apply Here](https://www.amazon.jobs/en/jobs/2736671/data-scientist-intern) |
 |Upstox |Web Designer Internship |Bengaluru, India| [Apply Here](https://unstop.com/o/NKoIRVL?utm_medium=Share&utm_source=shortUrl) |
 |Zuddl |AI/ML Intern |India| [Apply Here](https://zuddl.keka.com/careers/jobdetails/88435) |
 |Seagate |Intern-Web Application developer |Pune, MH, IN| [Apply Here](https://seagatecareers.com/job/Pune-Intern-Web-Application-developer-MH/1277276100/) |
@@ -233,6 +234,7 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 |  Name       | Deadline          | Apply Link           |
 |---------------------|-------------------|--------------------------|
+|Amazon ML Summer School| 31 July,2025 | [Apply Here](https://www.scaler.com/partnerships/amazon?) |
 |Flipkart GRiD 7.0| 30 June,2025 | [Apply Here](https://mycareernet.in/mycareernet/contests/Flipkart-Flipkart-GRiD-7-0--234) |
 |Meesho ScriptedByHer| 24 June, 2025| [Apply Here](https://www.hackerearth.com/challenges/hackathon/scriptedbyher-reg/?utm_source=he_email&utm_medium=cta&utm_campaign=scriptedbyher-reg&register_success=true) |
 |Juspay Hiring Challenge 2025|  13 July, 2025| [Apply Here](https://unstop.com/o/0rtBXYW?utm_medium=Share&utm_source=shortUrl) |
