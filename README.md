@@ -29,6 +29,13 @@ Stay updated and join our [Discord Community](https://discord.gg/YhfkfBtftt) for
 
 | Company Name | Role          | Location        | Apply Link           | Note 
 |--------------|---------------|-----------------|----------------------|-----------------------|
+|NutraBay |Intern - SDE | Gurugram, India| [Apply Here](https://nutrabay.keka.com/careers/jobdetails/94211) |
+|Vymo |Intern - Member of Technical Staff| Bangalore, Karnataka, India| [Apply Here](https://vymopeopleconnect.darwinbox.in/ms/candidate/careers/a686e23ef31ada/job_portal_name/a6434f141833cf) |
+|Marcus Evans |Frontend Developer Intern | Mumbai, Mahārāshtra, India| [Apply Here](https://recruitee.marcusevanscareers.com/o/frontend-developer-intern) |
+|Philips |Intern - Software Development |Bangalore,India| [Apply Here](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Software-Development_556418/) |
+|Zuddl |Engineering Intern - Full Stack | India| [Apply Here](https://zuddl.keka.com/careers/jobdetails/95456) |
+|Emerson |Software Engineer | Pune, Maharashtra, India (Hybrid)| [Apply Here](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25023613?src=JB-10086) |
+|S&P Global |Associate Data Engineer|  Bangalore, India| [Apply Here](https://careers.spglobal.com/jobs/317963) |
 |Amazon |Data Scientist Intern | Hyderabad/New Delhi/Chennai| [Apply Here](https://www.amazon.jobs/en/jobs/2736671/data-scientist-intern) |
 |Upstox |Web Designer Internship |Bengaluru, India| [Apply Here](https://unstop.com/o/NKoIRVL?utm_medium=Share&utm_source=shortUrl) |
 |Zuddl |AI/ML Intern |India| [Apply Here](https://zuddl.keka.com/careers/jobdetails/88435) |
